@@ -1,4 +1,5 @@
 {
-  "project_id" : "Mercury",
-  "conduit_uri" : "http://phabricator.mediamiser.internal/"
+  "phabricator.uri" : "http://phabricator.mediamiser.internal/",
+  "repository.callsign" : "rMRC",
+  "project.name" : "Mercury"
 }
